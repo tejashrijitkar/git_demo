@@ -1,0 +1,155 @@
+what is backend:
+frontend->backend->database
+computer->cpu->databaselogo
+
+what is frontend:it intractes with user or clients.
+backend handles business logic of an application.
+it handles request and response from frontend and database
+it acts like mediator betn frontend and database
+server handles database checkes user validation.and reqest responses
+
+Database:it stores data of an application.
+
+problems with tradtional java or servlet:
+1.To much boiler plats.
+2.manual object creation
+3.hard to maintain
+4.difficult dependencie management
+5.harder database integration.
+6.harder testing
+7.difficult scaling
+
+
+SPRING:
+spring is a java framework that makes application development easier and faster and cleaner to deploy
+
+SPRING FEATURES:
+1.auto object creation
+2.dependency management
+3.loose coupling
+4.configuration
+5.database integration
+6.web app development
+7.security integration
+8.testing support
+
+IOC AND DEPENDENCY INJUCTION:diagram
+1.IOC stands for inversion of control
+2.IOC is a container that holdes spring object
+3.IOC helps to initiates configure anf assemble spring objects
+
+OBJECTS IN IOC:
+it is calles and beans.
+
+DEPENDENCY INJUCTION:
+.manages the dependencies of object in ioc container
+.dependency injuction gives required objects from outsides instead of creating them inside the class. 
+
+SPRING CONTAINER:
+1.spring container is nothing but the ioc container.
+2.it helps to create,store,inject ,manage life cycle of spring objects.
+
+BEAN:
+.bean is an object managed by spring.
+
+
+DIFF BET SPRING AND SPRINGBOOT
+1.spring is poweful framework of java. 
+1.springboot is built on top of spring.
+
+2.requires more setup
+2.faster setup
+
+3.more configuration needed
+3.less configuration needed
+
+4.project setup takes time
+4.project setup no takes time,easire project creation
+4.embeded server
+4.production ready features
+
+WHY COMPANIES USE SPRINGBOOT:
+1.faster development
+2.easy to maintain
+3.easy to scale
+4.more secure
+5.api friendly
+6.microservices friendly
+7.enterprise standards.
+
+ex-springboot used in 
+1.baking 
+2.fintech
+3.edtech.
+4.ecimmerce
+5.enterprice softwares
+6.heathcare system.
+
+syllabus:
+phase1:
+1.what is spring
+2.ioc
+3.dependencie injuction'
+4.beans'
+5.spring container
+6.annotations
+
+phase2:
+1.project setup
+2.maven
+3.application structure
+4.starter dependencies
+5.embeded server
+
+phase3:
+1.controller
+2.request mapping
+3.get post put delete
+4.reqest body
+5.path  variable
+6.request param
+
+
+phase4:
+1.JPA
+2.hybernate
+3.entity
+4.repositery
+5.crud operations
+
+
+phase5:
+1.exception handling
+2.validations
+3.layerd architecture
+4.DTO
+5.security basics
+6.JWT basics
+7
+
+pahse6:
+1.complete real life projects
+
+
+ANNOTATIONS:
+.annotations are reserved keywords in java that are used to spacify a feature 
+.each annotations has its specific feature
+
+ex.@override @autowired
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
